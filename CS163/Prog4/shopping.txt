@@ -1,0 +1,12 @@
+Sony|media_devices|White|Large|www.Sony.com
+Huawei|media_devices|Black|Medium|www.hightech.com
+Apple|family_facilities|Red|Large|www.apple.com
+Dell|computer|white|Small|www.dell_computer.com
+Switch|game_machine|Black|Small|www.switch.com
+Bose|earphone|Grey|Small|www.bose.com
+Samsung|family_facilities|White|Medium|www.samsung.com
+Canon|camera|Black|Small|www.canon.com
+NetEase|media_devices|Red|Small|www.netease.com
+Paypal|payment|Blue|Small|www.paypal.com
+Philips|family_facilities|Black|Small|www.philips.com
+Xiaomi|family_facilities|White|Large|www.xiaomi.com
